@@ -1,0 +1,48 @@
+.header{
+    height: 100px;
+    width: 1200px;
+    /* border: solid 1px black; */
+    margin: auto;
+}
+
+.logo{
+    padding-top: 10px;
+    width: 500px;
+    /* background-color: antiquewhite; */
+    height: 90px;
+    float: left;
+}
+
+.menu{
+    width: 700px;
+    height: 100px;
+    float: right;
+    /* background-color: aqua; */
+}
+
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.menu_item{
+    border: solid 1px black;
+    float: left;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    border-radius: 30px;
+   background-color: rgb(0, 0, 0);
+}
+
+.comany_name{
+    font-size: 40px;
+    font-family: Arial, sans-serif;
+    margin-top: -60px;
+    margin-left: 74px;
+}
